@@ -1,2 +1,3 @@
 Line1: created a local file.
 Line2: modifying the file checked out from TestBranch.
+Line4: adding line 4 on master. checkin 2.
