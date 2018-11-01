@@ -1,0 +1,2 @@
+Line1: created a local file.
+Line2: modifying the file checked out from TestBranch.
